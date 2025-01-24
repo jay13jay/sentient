@@ -53,7 +53,7 @@ export default tseslint.config({
 
 This project is configured to deploy to GitHub Pages using GitHub Actions. To set it up:
 
-1. Ensure the `homepage` field in `package.json` is set to `https://<your-username>.github.io/<your-repo-name>`.
+1. Ensure the `homepage` field in `package.json` is set to `https://jay13jay.github.io/sentient`.
 2. Create a `gh-pages` branch in your repository.
 3. Push changes to the `main` branch to trigger the deployment workflow.
 
